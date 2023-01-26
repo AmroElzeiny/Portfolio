@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionDivider/><br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      Hello World, this is a very long description
+      Trading & Developing!
     </SectionText>
     <List>
       <ListItem>
