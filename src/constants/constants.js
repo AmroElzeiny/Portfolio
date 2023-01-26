@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Portfolio',
     description:"Using HTML, CSS, JS, and React - from start to finish. This is my Portfolio and it is a fully responsive design built professionally.",
-    image: '/images/portfolio.png',
+    image: 'images/portfolio.png',
     tags: ['HTML', 'CSS', 'JS', 'React'],
     source: 'https://google.com',
     visit: 'https://google.com',
