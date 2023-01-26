@@ -13,8 +13,8 @@ export const projects = [
     description:"Using HTML, CSS, JS, and React - from start to finish. This is my Portfolio and it is a fully responsive design built professionally.",
     image: 'images/portfolio.png',
     tags: ['HTML', 'CSS', 'JS', 'React'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/AmroElzeiny/Portfolio',
+    visit: 'https://amroelzeiny.github.io/Portfolio/',
     id: 1,
   }
 ];
