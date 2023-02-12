@@ -10,12 +10,22 @@ export const projects = [
   },
   {
     title: 'Segafredo',
-    description: "Using HTML, CSS, and JS - from start to finish. The website is called Segafredo and it is a international coffee company.",
+    description: "Using HTML, CSS, and JS - from start to finish. The website is called Segafredo and it is an international coffee company.",
       image: 'images/segafredo.png',
       tags: ['HTML', 'CSS', 'JS'],
     source: 'https://github.com/AmroElzeiny/segafredo/blob/main/Untitled-1.html',
     visit: 'https://amroelzeiny.github.io/Segafredo-test/',
     id: 1,
+  },
+  
+   {
+    title: 'Lion Digital',
+    description: "Using HTML, CSS, and JS - from start to finish. The website is called Lion Digital and it is an international digital marketing company.",
+      image: 'images/segafredo.png',
+      tags: ['HTML', 'CSS', 'JS', 'React'],
+    source: 'https://github.com/AmroElzeiny/Lion-main',
+    visit: 'https://amroelzeiny.github.io/Lion-main/',
+    id: 2,
   }
   
 ];
